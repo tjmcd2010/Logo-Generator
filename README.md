@@ -4,10 +4,17 @@
   Utilize a command line interface to create and SVG file in the shape of a traingle, circle or a square.
 
 ## URL of Deployed Application
+  This is a command line application so there is no URL to run the application
 
 ## Demonstration of Deployed Application
 
-## Screenshot of Deployed Application
+[Logo Generator Demo](https://drive.google.com/file/d/10JwJorkuLm1PId30diae-QEwsch0hcGu/view?usp=sharing)
+
+## Screenshots of Examples
+
+![Square](examples/Square.png)
+![Circle](examples/Circle.png)
+![Triangle](examples/Triangle.png)
 
 ## Table of Contents
   - [Installation](#installation)
