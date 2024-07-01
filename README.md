@@ -8,13 +8,14 @@
 
 ## Demonstration of Deployed Application
 
-[Logo Generator Demo](https://drive.google.com/file/d/10JwJorkuLm1PId30diae-QEwsch0hcGu/view?usp=sharing)
+[Logo Generator Demo](https://drive.google.com/file/d/1V-380QF14ewZglSV17dxLg0KOLVvRHOs/view?usp=sharing)
 
 ## Screenshots of Examples
 
 ![Square](examples/Square.png)
 ![Circle](examples/Circle.png)
 ![Triangle](examples/Triangle.png)
+![Passed Test Example](examples/Passed-Test.png)
 
 ## Table of Contents
   - [Installation](#installation)
