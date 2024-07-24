@@ -12,10 +12,10 @@
 
 ## Screenshots of Examples
 
-![Square](examples/Square.png)
-![Circle](examples/Circle.png)
-![Triangle](examples/Triangle.png)
-![Passed Test Example](examples/Passed-Test.png)
+![Square](./Examples/Square.png)
+![Circle](./Examples/Circle.png)
+![Triangle](./Examples/Triangle.png)
+![Passed Test Example](./Examples/Passed-Test.png)
 
 ## Table of Contents
   - [Installation](#installation)
